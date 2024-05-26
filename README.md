@@ -1,4 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=DARXS&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img width="1200" height="200" src="https://github-profile-trophy.vercel.app/?username=DARXS&no-frame=true&margin-w=5title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical">
+</p>
 
 <div align="center">
   
@@ -31,11 +33,9 @@ In terms of technical skills, I have proficiency in programming languages such a
 ---
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=DARXS&show_icons=true&theme=radical">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARXS&size_weight=0.15&count_weight=0.5&layout=compact&theme=radical">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=DARXS&hide_border=true&show_icons=true&theme=radical">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARXS&hide_border=true&size_weight=0.15&count_weight=0.5&layout=compact&theme=radical">
 </p>
-
-
   ##
  
 <div> 
