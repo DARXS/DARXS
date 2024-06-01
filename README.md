@@ -14,13 +14,13 @@ In terms of technical skills, I have proficiency in programming languages such a
 ### Languages:
 | C | C++ | Python | 
 |----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+| <img src="https://skillicons.dev/icons?i=c" title="C"  alt="C" width="55" height="55"/>  | <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" width="55" height="55"/> |  <img src="https://skillicons.dev/icons?i=python" title="Python"  alt="Python" width="55" height="55"/> |
 
 ### OS:
 
-| Windows 11 | Ubuntu |
+| Windows | Ubuntu |
 |----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows 11" alt="Windows" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
+| <img src="https://skillicons.dev/icons?i=windows" title="Windows" alt="Windows" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 
 ##
 
@@ -40,8 +40,8 @@ In terms of technical skills, I have proficiency in programming languages such a
 ##
  
 <div> 
-  <a href="https://www.instagram.com/danilo.adryel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/daniloadryel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/danilo.adryel/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniloadryel/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></a> 
 </div>
 
 </div>
