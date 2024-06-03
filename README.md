@@ -4,12 +4,17 @@
 
 <div align="center">
   
-# About Me
+# About Me 
   
-## Hi 👋, I'm Danilo Adryel.
+## Hi 👋, I'm Danilo Adryel. :brazil:	
+
+<div align="justify">
+  
 Currently, I'm pursuing a degree in Electronic Engineering at the Federal University of Pernambuco. My area of interest is diverse, including hardware, software, PCB design, and embedded electronics. I'm constantly seeking to enhance my knowledge and skills in these areas, aiming to become a highly qualified and versatile electronic engineer.
 
 In terms of technical skills, I have proficiency in programming languages such as C/C++ and Python, which are essential for embedded software development. My primary focus has been applying these languages in embedded systems, especially in the automotive context. Additionally, I have a solid understanding of communication protocols such as I2C, UART, SPI, and LoRa, which are widely used in interconnecting electronic devices in embedded systems.
+
+</div>
 
 ### Languages:
 | C | C++ | Python | 
