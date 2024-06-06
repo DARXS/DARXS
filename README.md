@@ -38,8 +38,8 @@ In terms of technical skills, I have proficiency in programming languages such a
 ##
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=DARXS&hide_border=true&show_icons=true&theme=radical">
-  <img width="380" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARXS&hide_border=true&size_weight=0.15&count_weight=0.5&layout=compact&theme=radical">
+  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=DARXS&hide_border=true&show_icons=true&theme=radical">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARXS&hide_border=true&size_weight=0.15&count_weight=0.5&layout=compact&theme=radical">
 </p>
 
 ##
