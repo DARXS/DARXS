@@ -40,9 +40,6 @@ In terms of technical skills, I have proficiency in programming languages such a
 
 ##
  
-<div> 
- href="https://www.linkedin.com/in/daniloadryel/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"> 
-
-</div>
+<div href="https://www.linkedin.com/in/daniloadryel/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" target="_blank"></div>
 
 </div>
