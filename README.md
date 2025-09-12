@@ -6,9 +6,17 @@
 
 <div align="justify">
   
-Currently, I'm pursuing a degree in Electronic Engineering at the Federal University of Pernambuco. My area of interest is diverse, including hardware, software, PCB design, and embedded electronics. I'm constantly seeking to enhance my knowledge and skills in these areas, aiming to become a highly qualified and versatile electronic engineer.
+I am an Electronic Engineering student at UFPE, steadily building my career focused on applications in the automotive industry, working with embedded systems, industrial maintenance, and product development under strict technical standards. My experience combines hands-on factory floor practice with leadership in engineering projects applied to off-road vehicles, always emphasizing robustness, reliability, and innovation.
 
-In terms of technical skills, I have proficiency in programming languages such as C/C++ and Python, which are essential for embedded software development. My primary focus has been applying these languages in embedded systems, especially in the automotive context. Additionally, I have a solid understanding of communication protocols such as I2C, UART, SPI, and LoRa, which are widely used in interconnecting electronic devices in embedded systems.
+Currently, I am an engineering intern at Stellantis in the Reliability and Maintenance Quality area. In this role, I work on structured failure analyses, technical reliability studies, and continuous improvement initiatives aimed at increasing operational efficiency. My responsibilities include updating EWO dashboards in Power BI, supporting Visual Maintenance Management routines, validating operational data in SPW systems, and monitoring performance indicators. I also participate in internal audits and technical failure investigations based on structured methods such as the 5 Whys and Ishikawa diagrams.
+
+My industry journey began in the Maintenance Planning and Control area, also at Stellantis, where I managed preventive and corrective maintenance orders and monitored KPIs using SAP PM and Manusys4. This experience provided me with a solid foundation in asset reliability, strategic maintenance, and integration between engineering and production.
+
+Simultaneously, I served as Electronics Coordinator for the Mangue Baja SAE UFPE team, leading the complete development of the team’s off-road vehicle embedded systems. I was responsible for defining technical requirements, coordinating the vehicle’s electrical/electronic (E/E) architecture, developing firmware in C/C++ for ESP32 and STM32, and integrating sensors and actuators through automotive protocols such as CAN, UART, I2C, and SPI. I applied the V-model methodology for planning and integrating hardware, software, and functional validation on test benches and track.
+
+I also led the standardization of technical documentation (electrical schematics, signal lists, test plans, and maintenance guides) and managed the technical team, promoting engineering best practices, code reviews, continuous integration, and the use of tools such as PlatformIO and KiCad.
+
+This experience was a true applied engineering laboratory, where I developed critical skills for the automotive industry: making technical decisions under pressure, leading multidisciplinary teams, and delivering reliable, scalable solutions aligned with automotive standards.
 
 </div>
 
