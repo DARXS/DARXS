@@ -585,10 +585,10 @@ Automotive-grade electrical architecture designed for extreme off-road condition
 #### **🏁 Baja SAE Brasil 2024** *(National Championship)*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🥉-3rd_Place_Electronics_Presentation-CD7F32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏅-5th_Place_Overall_Classification-C0C0C0?style=for-the-badge" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/🏅-5th_Place_Overall_Classification-C0C0C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥉-3rd_Place_Electronics_Presentation-CD7F32?style=for-the-badge" />
 </p>
 
 <br>
@@ -596,7 +596,7 @@ Automotive-grade electrical architecture designed for extreme off-road condition
 #### **🏁 Baja SAE Nordeste 2024** *(Regional Championship)*
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🥇-1st_Place_Overall_Champion-FFD700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥈-2nd_Place_Overall_Champion-FFD700?style=for-the-badge" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/🥇-1st_Place_Project_Presentation-FFD700?style=for-the-badge" />
@@ -606,6 +606,9 @@ Automotive-grade electrical architecture designed for extreme off-road condition
 
 #### **🏁 Baja SAE Nordeste 2023**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇-1st_Place_Overall_Champion-FFD700?style=for-the-badge" />
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/🥇-1st_Place_Project_Presentation-FFD700?style=for-the-badge" />
 </p>
