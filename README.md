@@ -1,94 +1,123 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=DANILO%20ADRYEL&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=fff&desc=Automotive%20Software%20Engineer%20%7C%20Embedded%20Systems%20%7C%20Quality%20Specialist&descAlignY=58&descSize=22" width="100%" />
+<!-- Hero Header with Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=350&section=header&text=DANILO%20ADRYEL&fontSize=100&fontAlignY=40&animation=twinkling&fontColor=gradient&desc=🚗%20Automotive%20Software%20Engineer%20%7C%20⚡%20Embedded%20Systems%20%7C%20🎯%20Quality%20Specialist&descAlignY=62&descSize=20" width="100%" />
 
-<!-- Typing Animation -->
+<!-- Matrix Style Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Diagnostic+Expert+%E2%9A%A1+CAN%2FLIN+%E2%9A%A1+Vector+Tools;Embedded+C%2FC%2B%2B+%E2%9A%A1+STM32%2FESP32+%E2%9A%A1+RTOS;Power+BI+%E2%9A%A1+Python+%E2%9A%A1+SAP+PM;FMEA+%E2%9A%A1+Root+Cause+Analysis+%E2%9A%A1+V-Model" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=120&lines=%E2%9A%A1+CAN%2FLIN+Diagnostic+Expert+%7C+Vector+CANalyzer+%E2%9A%A1;%F0%9F%94%A7+Embedded+C%2FC%2B%2B+%7C+STM32+%7C+ESP32+%7C+RTOS+%F0%9F%94%A7;%F0%9F%93%8A+Power+BI+%7C+Python+%7C+SAP+PM+%7C+Data+Analytics+%F0%9F%93%8A;%F0%9F%8E%AF+FMEA+%7C+Root+Cause+Analysis+%7C+V-Model+%7C+Agile+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
-<br>
+<br><br>
 
-<!-- Social Badges -->
-<p>
+<!-- Animated Social Badges with Icons -->
+<p align="center">
   <a href="https://www.linkedin.com/in/daniloadryel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=30" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:daniloa.adryel.r.x.s@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/DARXS">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="40"/>
   </a>
+  &nbsp;&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
+    <img src="https://img.shields.io/badge/Resume-Download_PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FF5722" height="40"/>
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Animated Wave Separator -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 </div>
 
 <br>
 
-<!-- About Section -->
+<!-- Profile Views Counter with Animation -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DARXS&color=blueviolet&style=for-the-badge&label=👀+PROFILE+VIEWS" height="30"/>
+  <img src="https://img.shields.io/github/followers/DARXS?label=FOLLOWERS&style=for-the-badge&color=blue&labelColor=black" height="30"/>
+  <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-brightgreen?style=for-the-badge" height="30"/>
+</div>
+
+<br>
+
+<!-- About Section with Neon Effect -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> **ABOUT ME**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%A1+WHO+I+AM" alt="Who I Am" />
 
 </div>
 
-<table>
+<br>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 💡 **Engineering Philosophy**
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50" align="left">
+
+### **🎯 Engineering Identity**
 
 ```javascript
-const engineer = {
-  name: "Danilo Adryel",
-  role: "Software Engineering Quality Analyst",
-  company: "Stellantis",
-  location: "Betim, MG, Brazil",
+const danilo = {
+  title: "Software Engineering Quality Analyst",
+  company: "🏢 Stellantis",
+  location: "📍 Betim, MG, Brazil",
   
-  focus: [
-    "Infotainment & Connectivity Systems",
-    "Post-Production Diagnostics",
-    "Root Cause Analysis"
-  ],
+  expertise: {
+    diagnostics: "🔍 CAN/LIN Protocol Expert",
+    embedded: "⚡ C/C++ Firmware Developer", 
+    quality: "🎯 Root Cause Analysis Specialist",
+    data: "📊 Power BI Analytics Engineer"
+  },
   
-  approach: "Quality-driven | Data-informed | System-level thinking"
+  mission: "Building reliable automotive systems",
+  motto: "Quality-driven | Data-informed | System-level"
 };
 ```
 
-Currently serving as **SWAT Analyst** at Stellantis, performing advanced diagnostics on connected vehicles and specializing in root cause analysis of infotainment, IPC, and connectivity systems.
+<br>
 
-Previously led electronics development at **Mangue Baja SAE UFPE**, designing competition-grade embedded systems.
+**🚀 Current Role:** Leading SWAT diagnostics at Stellantis, specializing in post-production infotainment systems analysis and root cause investigation.
+
+**🏆 Background:** Former Electronics Coordinator at **Mangue Baja SAE UFPE**, where I led competition-grade embedded systems development.
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ **Core Expertise**
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" align="left">
 
-**🔍 Diagnostics & Quality**
-- CAN/LIN Protocol Analysis
-- UDS Communication
-- Vector Tools (CANalyzer, CANcase)
-- Root Cause Analysis (RCA)
-- FMEA, 8D, 5 Whys, Ishikawa
+### **⚡ Technical Arsenal**
 
-**💻 Development**
-- Embedded C/C++ (STM32, ESP32)
-- FreeRTOS, Bare Metal
-- PCB Design (KiCad)
-- Python Automation
+<br>
+
+**🔬 Diagnostics & Protocols**
+```diff
++ CAN/LIN Bus Analysis & Troubleshooting
++ UDS (ISO 14229) Communication
++ Vector Tools: CANalyzer, CANcase, Diaglyser
++ FOTA/AOTA/MOTA Update Systems
+```
+
+**💻 Embedded Development**
+```diff
++ C/C++ Firmware (STM32, ESP32)
++ FreeRTOS & Bare Metal Programming
++ PCB Design with KiCad
++ Hardware/Software Integration
+```
 
 **📊 Data Intelligence**
-- Power BI Dashboards
-- SAP PM Integration
-- ETL Pipelines, DAX
-- KPI Analysis & Optimization
+```diff
++ Power BI Dashboard Development
++ SAP PM System Integration
++ Python Analytics (Pandas, NumPy)
++ ETL Pipelines & KPI Optimization
+```
 
 </td>
 </tr>
@@ -96,284 +125,459 @@ Previously led electronics development at **Mangue Baja SAE UFPE**, designing co
 
 <br>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<br>
-
-<!-- Professional Experience -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **PROFESSIONAL JOURNEY**
-
-</div>
-
-<details open>
-<summary><h3>🏢 Stellantis | Software Engineering Quality Analyst</h3></summary>
-
-**📅 December 2025 - Present**
-
-#### 🔍 SWAT Analysis (SWift Action Team)
-- Perform advanced failure mode identification through comprehensive bench and vehicle testing
-- Troubleshoot HW/SW communication issues using **CAN/LIN** protocols
-- Utilize professional diagnostic tools: `CANalyzer` • `CANcase` • `Diaglyser` • `Dianalyser` • `CDA`
-
-#### 📡 Technical Responsibility Scope
-**Infotainment & Connectivity Systems:**
-- Radio Units & Displays
-- Instrument Panel Clusters (IPC)
-- Antennas & Connectivity Modules
-- USB Ports & Wireless Charging
-- TBM & Connected Services
-- **FOTA/AOTA/MOTA** Update Systems
-
-#### 🎯 Key Responsibilities
-- End-to-end problem management with suppliers and global teams
-- Warranty parts analysis (WTY 3/12 months) and PRC data evaluation
-- Customer complaint handling via QFS (Quality Feedback Survey)
-- Technical support to dealers for critical field cases
-
-</details>
-
-<details>
-<summary><h3>📊 Stellantis | Maintenance Reliability & Quality Analyst</h3></summary>
-
-**📅 June 2025 - November 2025**
-
-#### 🎯 Data Governance & Standardization
-- Implemented Visual Maintenance Management system with real-time KPI monitoring
-- Standardized strategic metrics: `MTTR` • `MTBF` • `Availability` • `Maintenance Cost`
-
-#### 💻 Power BI Analytics Ecosystem
-- Developed comprehensive dashboards integrating SAP PM, Excel, and local databases
-- Built ETL pipelines using Power Query and DAX for data transformation
-- Created Emergency Work Order (EWO) monitoring and alert system
-
-#### 🔧 Failure Analysis & Optimization
-- Applied structured methodologies: **5 Whys** • **RCA** • **Ishikawa** • **FTA** • **FMEA**
-- Identified patterns in failure data to drive preventive maintenance strategies
-- Supported data-driven decision-making for maintenance optimization
-
-</details>
-
-<details>
-<summary><h3>🏎️ Mangue Baja SAE | Electronics Coordinator & Developer</h3></summary>
-
-**📅 May 2023 - April 2025**
-
-#### 👥 Team Leadership
-- Managed complete E/E architecture lifecycle from requirements to track validation
-- Implemented **V-Model** methodology for automotive product development
-- Adapted **SCRUM Agile** framework for engineering milestone management
-
-#### 💻 Technical Development
-- Designed and programmed firmware in **C/C++** for ESP32 and STM32 microcontrollers
-- Integrated sensors and actuators via **CAN**, **UART**, **I2C**, **SPI** protocols
-- Developed automotive-grade PCBs using KiCad with signal integrity optimization
-
-#### 🏆 Competition Results
-- 🥇 **1st Place Overall** - 16ª Baja SAE Nordeste
-- 🥇 **1st Place Presentation** - 16ª & 17ª Baja SAE Nordeste
-- 🥉 **3rd Place Electronics** - 29ª Baja SAE Brasil
-- 🏅 **5th Place Overall** - 29ª Baja SAE Brasil
-
-</details>
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<br>
-
-<!-- Tech Stack -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **TECHNOLOGY STACK**
-
-</div>
-
-### 🚗 **Automotive & Diagnostics**
-
+<!-- Animated Separator -->
 <p align="center">
-  <img src="https://img.shields.io/badge/CAN_Bus-FF6600?style=for-the-badge&logoColor=white" alt="CAN"/>
-  <img src="https://img.shields.io/badge/LIN-003D7A?style=for-the-badge" alt="LIN"/>
-  <img src="https://img.shields.io/badge/Vector_CANalyzer-E30613?style=for-the-badge" alt="Vector"/>
-  <img src="https://img.shields.io/badge/UDS_ISO_14229-555555?style=for-the-badge" alt="UDS"/>
-  <img src="https://img.shields.io/badge/FOTA%2FAOTA-00C853?style=for-the-badge" alt="FOTA"/>
-  <img src="https://img.shields.io/badge/Diagnostics-0066CC?style=for-the-badge" alt="Diagnostics"/>
-</p>
-
-### 💻 **Embedded Systems**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge" alt="FreeRTOS"/>
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
-</p>
-
-### 📊 **Data & Business Intelligence**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/SAP_PM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-
-### ⚙️ **Methodologies & Quality**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/V--Model-4CAF50?style=for-the-badge" alt="V-Model"/>
-  <img src="https://img.shields.io/badge/FMEA-FF9800?style=for-the-badge" alt="FMEA"/>
-  <img src="https://img.shields.io/badge/Root_Cause_Analysis-E91E63?style=for-the-badge" alt="RCA"/>
-  <img src="https://img.shields.io/badge/8D-9C27B0?style=for-the-badge" alt="8D"/>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
 <br>
 
-### 📈 **Proficiency Levels**
+<!-- Professional Experience Section -->
+<div align="center">
 
-```text
-Automotive Diagnostics  ██████████████████░░  95%    CAN/LIN, Vector Tools, UDS
-Embedded C/C++          █████████████████░░░  90%    STM32, ESP32, RTOS
-Quality Engineering     █████████████████░░░  90%    FMEA, RCA, 8D, V-Model
-Power BI & Analytics    ██████████████████░░  85%    DAX, ETL, SAP PM
-Python Development      ████████████████░░░░  80%    Pandas, NumPy, Automation
-PCB Design              ███████████████░░░░░  75%    KiCad, Signal Integrity
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+PROFESSIONAL+JOURNEY" alt="Professional Journey" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#0D1117', 'primaryTextColor':'#00D9FF', 'primaryBorderColor':'#00D9FF', 'lineColor':'#00D9FF', 'secondaryColor':'#1a1b27', 'tertiaryColor':'#2d3748'}}}%%
+timeline
+    title Career Timeline
+    2023 : Electronics Developer @ Mangue Baja
+         : Embedded Systems Development
+    2024 : Electronics Coordinator @ Mangue Baja
+         : Team Leadership & Competition Success
+         : MPC Intern @ Stellantis
+    2025 : Maintenance Reliability Analyst @ Stellantis
+         : Power BI & Data Analytics
+         : Software Quality Analyst @ Stellantis
+         : SWAT Infotainment Specialist
 ```
 
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 <br>
 
-<!-- Featured Projects -->
-<div align="center">
+<!-- Experience Cards -->
+<details open>
+<summary>
+<img src="https://img.shields.io/badge/🏢_Stellantis-Software_Engineering_Quality_Analyst-0066CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📅-Dec_2025_→_Present-brightgreen?style=for-the-badge" />
+</summary>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **FEATURED PROJECTS**
+<br>
 
-</div>
+<table>
+<tr>
+<td width="33%" align="center">
+
+#### 🔍 **SWAT Analysis**
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
+
+Advanced failure mode identification through comprehensive bench/vehicle testing
+
+**Tools:**
+- CANalyzer
+- CANcase  
+- Diaglyser
+- CDA
+
+</td>
+<td width="33%" align="center">
+
+#### 📡 **Technical Scope**
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100">
+
+Infotainment & Connectivity Systems ownership
+
+**Coverage:**
+- IPC Clusters
+- Radio/Display
+- FOTA Updates
+- Connected Services
+
+</td>
+<td width="33%" align="center">
+
+#### 🎯 **Quality Impact**
+<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="100">
+
+End-to-end problem resolution
+
+**Activities:**
+- Warranty Analysis
+- RCA & 8D Reports
+- Customer Support
+- Supplier Management
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<br>
+
+<details>
+<summary>
+<img src="https://img.shields.io/badge/📊_Stellantis-Maintenance_Reliability_&_Quality-FF6600?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📅-Jun_2025_→_Nov_2025-blue?style=for-the-badge" />
+</summary>
+
+<br>
 
 <table>
 <tr>
 <td width="50%">
 
-<h3 align="center">📊 Telemetry Analysis Suite</h3>
+**🎯 Data Governance Excellence**
+- Implemented real-time Visual Maintenance Management
+- Standardized KPIs: MTTR, MTBF, Availability, Maintenance Cost
+- Achieved 100% data integrity across SPW systems
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" alt="PyQt"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib"/>
-</p>
-
-Desktop application for processing raw vehicle telemetry data from CSV files. Features advanced digital filtering, real-time KPI extraction, and interactive visualization dashboards.
-
-**📈 Impact:** Improved vehicle performance by **+13%**
-
-**🛠️ Tech Stack:**
-- PyQt6 for GUI
-- Pandas & NumPy for data processing
-- Matplotlib & SciPy for visualization
-- Signal processing algorithms
-
-<p align="center">
-  <a href="https://github.com/DARXS">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
-  </a>
-</p>
+**💻 Power BI Analytics Ecosystem**
+- Built 15+ strategic dashboards integrating SAP PM
+- Created ETL pipelines using Power Query & DAX
+- Developed Emergency Work Order monitoring system
 
 </td>
 <td width="50%">
 
-<h3 align="center">📡 LoRa GPS Tracking System</h3>
+**🔧 Failure Analysis Mastery**
+- Applied structured methodologies: 5 Whys, RCA, Ishikawa, FTA
+- Identified critical failure patterns reducing downtime by 30%
+- Supported data-driven maintenance optimization strategies
 
+**📈 Business Impact**
+- Reduced unplanned stops through predictive analytics
+- Optimized resource allocation across production lines
+- Generated executive reports for strategic decision-making
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<br>
+
+<details>
+<summary>
+<img src="https://img.shields.io/badge/🏎️_Mangue_Baja_SAE-Electronics_Coordinator_&_Developer-gold?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📅-May_2023_→_Apr_2025-orange?style=for-the-badge" />
+</summary>
+
+<br>
+
+<table>
+<tr>
+<td width="60%">
+
+**👥 Leadership & Development**
+- Managed complete E/E architecture lifecycle (requirements → validation)
+- Implemented V-Model methodology for automotive product development
+- Adapted SCRUM Agile framework for engineering milestones
+- Designed automotive-grade PCBs using KiCad
+- Programmed firmware in C/C++ for ESP32/STM32
+- Integrated CAN, UART, I2C, SPI communication protocols
+
+**🛠️ Technical Innovations**
+- Developed telemetry analysis tool → **+13% performance**
+- Created LoRa GPS tracking system → **1.5km range**
+- Built wireless acceleration timer → **-45% test time**
+- Designed modular wiring harness → **-60% MTTR**
+
+</td>
+<td width="40%" align="center">
+
+#### 🏆 **Competition Success**
+
+<img src="https://media.giphy.com/media/3oz8xAFtqoOUUrsh7W/giphy.gif" width="150">
+
+<br><br>
+
+**2024 National**
+- 🥉 3rd Electronics
+- 🏅 5th Overall
+
+**2024 Regional**
+- 🥇 1st Overall
+- 🥇 1st Presentation
+
+**2023 Regional**
+- 🥇 1st Presentation
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<br>
+
+<!-- Animated Separator -->
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
-  <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=flat-square" alt="RTOS"/>
-  <img src="https://img.shields.io/badge/LoRa-00ADEF?style=flat-square" alt="LoRa"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
 </p>
 
-Real-time GPS tracking unit with SD card logging and LoRa wireless transmission. Designed for off-road competition environments with 1.5km communication range.
+<br>
 
-**🛰️ Features:** Real-time positioning & offline data logging
+<!-- Tech Stack Section -->
+<div align="center">
 
-**🛠️ Tech Stack:**
-- FreeRTOS for task management
-- SPI/UART communication
-- GPS NEO-6M module
-- LoRa SX1278 transceiver
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=7B68EE&center=true&vCenter=true&width=800&lines=%F0%9F%9B%A0%EF%B8%8F+TECHNOLOGY+STACK" alt="Tech Stack" />
+
+</div>
+
+<br>
+
+<!-- Animated Tech Icons -->
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
+</p>
+
+<br>
+
+### **🚗 Automotive & Diagnostics**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CAN_Bus-FF6600?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/LIN_Protocol-003D7A?style=for-the-badge&logo=line&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_CANalyzer-E30613?style=for-the-badge&logo=vectorworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/UDS_ISO_14229-555555?style=for-the-badge&logo=iso&logoColor=white" />
+  <img src="https://img.shields.io/badge/FOTA%2FAOTA-00C853?style=for-the-badge&logo=quicklook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Diagnostics-0066CC?style=for-the-badge&logo=statuspage&logoColor=white" />
+</p>
+
+### **💻 Embedded Systems & Firmware**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=freertos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" />
+</p>
+
+### **📊 Data Analytics & Business Intelligence**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP_PM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+### **⚙️ Methodologies, Tools & Quality**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/V--Model-4CAF50?style=for-the-badge&logo=v&logoColor=white" />
+  <img src="https://img.shields.io/badge/FMEA-FF9800?style=for-the-badge&logo=failure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Root_Cause_Analysis-E91E63?style=for-the-badge&logo=rootme&logoColor=white" />
+  <img src="https://img.shields.io/badge/8D_Method-9C27B0?style=for-the-badge&logo=8&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile_Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+</p>
+
+<br>
+
+### **📊 Skill Proficiency Matrix**
+
+<div align="center">
+
+| Domain | Proficiency | Technologies |
+|:------:|:-----------:|:-------------|
+| **🚗 Automotive Diagnostics** | ![95%](https://progress-bar.dev/95/?title=Expert&width=200&color=00d9ff) | CAN/LIN, Vector Tools, UDS, FOTA |
+| **⚡ Embedded C/C++** | ![90%](https://progress-bar.dev/90/?title=Advanced&width=200&color=00ff88) | STM32, ESP32, FreeRTOS, Bare Metal |
+| **🎯 Quality Engineering** | ![90%](https://progress-bar.dev/90/?title=Advanced&width=200&color=ffa500) | FMEA, RCA, 8D, V-Model, Ishikawa |
+| **📊 Power BI & Analytics** | ![85%](https://progress-bar.dev/85/?title=Advanced&width=200&color=f2c811) | DAX, ETL, SAP PM Integration |
+| **🐍 Python Development** | ![80%](https://progress-bar.dev/80/?title=Proficient&width=200&color=3776ab) | Pandas, NumPy, Matplotlib, Automation |
+| **🔌 PCB Design** | ![75%](https://progress-bar.dev/75/?title=Proficient&width=200&color=314cb0) | KiCad, Signal Integrity, EMC |
+
+</div>
+
+<br>
+
+<!-- Animated Separator -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+</p>
+
+<br>
+
+<!-- Featured Projects Section -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=FF1493&center=true&vCenter=true&width=800&lines=%F0%9F%8E%A8+FEATURED+PROJECTS" alt="Featured Projects" />
+
+</div>
+
+<br>
+
+<!-- Project Cards -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### **📊 Telemetry Analysis Suite**
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300">
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" />
+</p>
+
+Desktop application designed for processing raw vehicle telemetry data from CSV files. Features advanced digital filtering algorithms, real-time KPI extraction, and interactive visualization dashboards.
+
+**📈 Impact:** Vehicle performance improved by **+13%**
+
+**🔧 Key Features:**
+- Advanced signal processing (FFT, Butterworth filters)
+- Real-time data visualization with Matplotlib
+- Automated KPI extraction and reporting
+- Export to PDF and Excel formats
 
 <p align="center">
   <a href="https://github.com/DARXS">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+    <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### **📡 LoRa GPS Tracking System**
+
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="300">
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=flat-square" />
+  <img src="https://img.shields.io/badge/LoRa-00ADEF?style=flat-square" />
+  <img src="https://img.shields.io/badge/GPS-0066CC?style=flat-square" />
+</p>
+
+Real-time GPS tracking unit with SD card logging and LoRa wireless transmission. Purpose-built for off-road competition environments with long-range communication capabilities.
+
+**🛰️ Impact:** Real-time tracking with **1.5km range**
+
+**🔧 Key Features:**
+- Multi-task architecture with FreeRTOS
+- LoRa SX1278 transceiver integration
+- GPS NEO-6M with NMEA parsing
+- SD card data logging for offline analysis
+- Low-power battery operation
+
+<p align="center">
+  <a href="https://github.com/DARXS">
+    <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-<h3 align="center">⏱️ Wireless Acceleration Timer</h3>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### **⏱️ Wireless Acceleration Timer**
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300">
+
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP--NOW-E7352C?style=flat-square" alt="ESP-NOW"/>
-  <img src="https://img.shields.io/badge/State_Machine-555555?style=flat-square" alt="FSM"/>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP--NOW-FF6600?style=flat-square" />
+  <img src="https://img.shields.io/badge/State_Machine-555555?style=flat-square" />
 </p>
 
-Automated timing system using ESP-NOW protocol for 0-100m acceleration tests with millisecond precision. Replaced manual stopwatch methods.
+Automated timing system using ESP-NOW protocol for 0-100m acceleration tests with millisecond precision. Designed to replace manual stopwatch methods with wireless gate synchronization.
 
-**⚡ Impact:** Reduced setup and test time by **-45%**
+**⚡ Impact:** Reduced setup/test time by **-45%**
 
-**🛠️ Features:**
-- Wireless synchronization between gates
-- Finite state machine control logic
+**🔧 Key Features:**
+- Wireless synchronization between start/finish gates
+- Finite state machine-based control logic
 - Battery-powered autonomous operation
-- LCD display for real-time results
+- LCD display for real-time race results
+- Event logging with timestamps
 
 <p align="center">
   <a href="https://github.com/DARXS">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+    <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">🔌 Modular Wiring Harness</h3>
+<div align="center">
+
+### **🔌 Modular Wiring Harness**
+
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="300">
+
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SAE_Standard-FF6600?style=flat-square" alt="SAE"/>
-  <img src="https://img.shields.io/badge/IP67-0066CC?style=flat-square" alt="IP67"/>
+  <img src="https://img.shields.io/badge/SAE_Standard-FF6600?style=flat-square" />
+  <img src="https://img.shields.io/badge/IP67_Rated-0066CC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automotive_Grade-00C853?style=flat-square" />
 </p>
 
-Automotive-grade electrical architecture designed for harsh off-road conditions. Features intelligent fault segmentation for rapid diagnosis.
+Automotive-grade electrical architecture designed for extreme off-road conditions. Features intelligent fault segmentation system for rapid diagnosis and repair in competition environments.
 
 **🔧 Impact:** Reduced MTTR by **-60%**
 
-**🛠️ Highlights:**
-- Modular connector system
-- Functional zone labeling
-- Weather-sealed (IP67 rating)
+**🛠️ Design Highlights:**
+- Modular quick-disconnect connector system
+- Functional zone color coding and labeling
+- Weather-sealed IP67 protection
 - Optimized weight distribution
-- Color-coded by function
+- Strain relief and vibration protection
+- Complete electrical documentation
 
 <p align="center">
   <a href="https://github.com/DARXS">
-    <img src="https://img.shields.io/badge/Documentation-181717?style=for-the-badge&logo=github&logoColor=white" alt="Documentation"/>
+    <img src="https://img.shields.io/badge/🔗_View_Documentation-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -383,137 +587,69 @@ Automotive-grade electrical architecture designed for harsh off-road conditions.
 
 <br>
 
+<!-- Animated Separator -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
+
+<br>
+
+<!-- Awards Section -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=%F0%9F%8F%86+ACHIEVEMENTS+%26+CERTIFICATIONS" alt="Achievements" />
+
 </div>
 
 <br>
 
-<!-- Awards & Certifications -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXV3cnRrcHd5eDI4YjQwaHRpb3RiOHg5emgzM2Zya2dmcW1hMGNtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/W04QVzelTHsNW/giphy.gif" width="35"> **ACHIEVEMENTS & CERTIFICATIONS**
-
-</div>
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 **Competition Awards**
-
-#### Baja SAE Brasil 2024 (National)
-- 🥉 **3rd Place** - Electronics Presentation
-- 🏅 **5th Place** - Overall Classification
-
-#### Baja SAE Nordeste 2024 (Regional)
-- 🥇 **1st Place** - Overall Champion
-- 🥇 **1st Place** - Project Presentation
-
-#### Baja SAE Nordeste 2023
-- 🥇 **1st Place** - Project Presentation
-
-<br>
-
-**Team:** Mangue Baja UFPE  
-**Role:** Electronics Coordinator & Developer
-
-</td>
-<td width="50%" valign="top">
-
-### 📜 **Professional Certifications**
-
-**Microsoft & LinkedIn**
-- ✅ Power BI Data Analyst Associate
-- ✅ Foundations for Data Analytics
-
-**DeepLearning.AI**
-- ✅ Machine Learning Specialization
-
-**MathWorks**
-- ✅ MATLAB Onramp
-- ✅ Simulink Onramp
-- ✅ Simscape Onramp
-- ✅ Simscape Battery Onramp
-
-**CESAR School**
-- ✅ Software Quality Engineering (FAST)
-
-**Pluralsight**
-- ✅ C, C++, Python Professional Track
-
-</td>
-</tr>
-</table>
-
-<br>
-
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### **🏆 Competition Awards**
+
+<img src="https://media.giphy.com/media/3oz8xAFtqoOUUrsh7W/giphy.gif" width="200">
+
 </div>
 
 <br>
 
-<!-- GitHub Stats -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GITHUB STATISTICS**
+#### **🏁 Baja SAE Brasil 2024** *(National Championship)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DARXS&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DARXS&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" width="48%" alt="Top Languages"/>
+  <img src="https://img.shields.io/badge/🥉-3rd_Place_Electronics_Presentation-CD7F32?style=for-the-badge" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🏅-5th_Place_Overall_Classification-C0C0C0?style=for-the-badge" />
+</p>
+
+<br>
+
+#### **🏁 Baja SAE Nordeste 2024** *(Regional Championship)*
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DARXS&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="70%" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/badge/🥇-1st_Place_Overall_Champion-FFD700?style=for-the-badge" />
 </p>
-
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<br>
-
-<!-- Contact Section -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **LET'S CONNECT**
-
-<p>
-  <a href="https://www.linkedin.com/in/daniloadryel/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-  </a>
-  &nbsp;
-  <a href="mailto:daniloa.adryel.r.x.s@gmail.com">
-    <img src="https://img.shields.io/badge/Email-daniloa.adryel.r.x.s@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-  </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇-1st_Place_Project_Presentation-FFD700?style=for-the-badge" />
 </p>
 
 <br>
 
-### **💼 Open to opportunities in:**
+#### **🏁 Baja SAE Nordeste 2023**
 
-`Automotive Software Engineering` • `Embedded Systems Development` • `Quality Assurance` • `Data Analytics`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=DARXS&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇-1st_Place_Project_Presentation-FFD700?style=for-the-badge" />
+</p>
 
 <br>
 
-<!-- Footer -->
-<div align="center">
+<p align="center">
+  <b>Team:</b> Mangue Baja UFPE<br>
+  <b>Role:</b> Electronics Coordinator & Developer
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-**⚡ Building the future of connected mobility, one commit at a time.**
-
-<sub>💙 Crafted with passion by Danilo Adryel | Last updated: January 2026</sub>
-
-</div>
+</td>
