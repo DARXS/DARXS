@@ -6,17 +6,28 @@
 
 <div align="justify">
   
-I am an Electronic Engineering student at UFPE, steadily building my career focused on applications in the automotive industry, working with embedded systems, industrial maintenance, and product development under strict technical standards. My experience combines hands-on factory floor practice with leadership in engineering projects applied to off-road vehicles, always emphasizing robustness, reliability, and innovation.
+I am a Software Engineering and Automotive Quality professional, with experience in embedded systems and quality-driven failure analysis. My journey began during my Electronic Engineering degree, when I discovered the world of embedded systems and automotive innovation. Since then, I have been focused on developing and ensuring robust, reliable, and high-performance solutions for complex and safety-critical systems.
 
-Currently, I am an engineering intern at Stellantis in the Reliability and Maintenance Quality area. In this role, I work on structured failure analyses, technical reliability studies, and continuous improvement initiatives aimed at increasing operational efficiency. My responsibilities include updating EWO dashboards in Power BI, supporting Visual Maintenance Management routines, validating operational data in SPW systems, and monitoring performance indicators. I also participate in internal audits and technical failure investigations based on structured methods such as the 5 Whys and Ishikawa diagrams.
+Currently, I work as a Software Engineering Quality Analyst, focusing on diagnostics and validation of infotainment systems, root cause analysis in post-production environments, and technical support for critical field cases. I have experience identifying and resolving hardware, software, and communication issues, using protocols such as CAN and LIN and professional diagnostic tools. My role also involves end-to-end problem management, close interaction with suppliers and global teams, and a constant focus on product quality and customer experience.
 
-My industry journey began in the Maintenance Planning and Control area, also at Stellantis, where I managed preventive and corrective maintenance orders and monitored KPIs using SAP PM and Manusys4. This experience provided me with a solid foundation in asset reliability, strategic maintenance, and integration between engineering and production.
+Throughout my career, I have built a solid foundation in quality, reliability, and data analysis, with experience in KPIs, warranty data, field complaints, and performance indicators, supporting technical and strategic decision-making. I have also worked in maintenance planning and control, asset management, and failure analysis, strengthening a system-level and data-driven mindset.
 
-Simultaneously, I served as Electronics Coordinator for the Mangue Baja SAE UFPE team, leading the complete development of the team’s off-road vehicle embedded systems. I was responsible for defining technical requirements, coordinating the vehicle’s electrical/electronic (E/E) architecture, developing firmware in C/C++ for ESP32 and STM32, and integrating sensors and actuators through automotive protocols such as CAN, UART, I2C, and SPI. I applied the V-model methodology for planning and integrating hardware, software, and functional validation on test benches and track.
+In addition to my professional experience, I led the Electronics Team at Mangue Baja SAE UFPE, contributing to the complete development of the off-road vehicle’s embedded system — from firmware development and sensor integration to electrical/electronic architecture definition and system validation following the V-Model methodology.
 
-I also led the standardization of technical documentation (electrical schematics, signal lists, test plans, and maintenance guides) and managed the technical team, promoting engineering best practices, code reviews, continuous integration, and the use of tools such as PlatformIO and KiCad.
+🎯 Professional Objective
+To work at the intersection of software engineering, embedded systems, and automotive quality, contributing to reliable, scalable products with a high level of technical excellence.
 
-This experience was a true applied engineering laboratory, where I developed critical skills for the automotive industry: making technical decisions under pressure, leading multidisciplinary teams, and delivering reliable, scalable solutions aligned with automotive standards.
+🔧 Technical Skills
+• Automotive Quality & Diagnostics: Infotainment, E/E Systems, SWAT, Root Cause Analysis, Post-Production Support
+• Protocols & Diagnostics: CAN, LIN, Vector tools (CANalyzer, CANcase), log and failure analysis
+• Programming: C/C++, Python
+• Data & Quality: Power BI, KPIs, ETL, DAX, warranty data analysis
+• Embedded Systems: ESP32, STM32, RTOS, HW/SW integration
+• Tools & Methods: SAP PM, Agile, FMEA, 8D, 5 Whys, Ishikawa, RCA, V-Model
+
+If you’d like to exchange ideas or discuss technical challenges, feel free to connect.
+
+📧 Email: danilo.adryel.r.x.s@gmail.com
 
 </div>
 
