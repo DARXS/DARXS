@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Hero Header with Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=350&section=header&text=DANILO%20ADRYEL&fontSize=100&fontAlignY=40&animation=twinkling&fontColor=gradient&desc=🚗%20Automotive%20Software%20Engineer%20%7C%20⚡%20Embedded%20Systems%20%7C%20🎯%20Quality%20Specialist&descAlignY=62&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6,11&height=350&section=header&text=DANILO%20ADRYEL&fontSize=100&fontAlignY=40&animation=twinkling&fontColor=gradient&desc=🚗%20Automotive%20Software%20Engineer%20%7C%20⚡%20Embedded%20Systems%20%7C%20🎯%20Quality%20Specialist&descAlignY=62&descSize=20" width="100%" />
 
 <!-- Matrix Style Typing Effect -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=120&lines=%E2%9A%A1+CAN%2FLIN+Diagnostic+Expert+%7C+Vector+CANalyzer+%E2%9A%A1;%F0%9F%94%A7+Embedded+C%2FC%2B%2B+%7C+STM32+%7C+ESP32+%7C+RTOS+%F0%9F%94%A7;%F0%9F%93%8A+Power+BI+%7C+Python+%7C+SAP+PM+%7C+Data+Analytics+%F0%9F%93%8A;%F0%9F%8E%AF+FMEA+%7C+Root+Cause+Analysis+%7C+V-Model+%7C+Agile+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=00FFF7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=120&lines=%E2%9A%A1+CAN%2FLIN+Diagnostic+Expert+%7C+Vector+CANalyzer+%E2%9A%A1;%F0%9F%94%A7+Embedded+C%2FC%2B%2B+%7C+STM32+%7C+ESP32+%7C+RTOS+%F0%9F%94%A7;%F0%9F%93%8A+Power+BI+%7C+Python+%7C+SAP+PM+%7C+Data+Analytics+%F0%9F%93%8A;%F0%9F%8E%AF+FMEA+%7C+Root+Cause+Analysis+%7C+V-Model+%7C+Agile+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -13,24 +13,24 @@
 <!-- Animated Social Badges with Icons -->
 <p align="center">
   <a href="https://www.linkedin.com/in/daniloadryel/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=30" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="45"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:daniloa.adryel.r.x.s@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" height="40"/>
+    <img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="45"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/DARXS">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="40"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-00FFF7?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="45"/>
   </a>
   &nbsp;&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/Resume-Download_PDF-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=FF5722" height="40"/>
+    <img src="https://img.shields.io/badge/Resume-Download_PDF-FF0080?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white&labelColor=000000" height="45"/>
   </a>
 </p>
 
 <!-- Animated Wave Separator -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
@@ -38,9 +38,9 @@
 
 <!-- Profile Views Counter with Animation -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DARXS&color=blueviolet&style=for-the-badge&label=👀+PROFILE+VIEWS" height="30"/>
-  <img src="https://img.shields.io/github/followers/DARXS?label=FOLLOWERS&style=for-the-badge&color=blue&labelColor=black" height="30"/>
-  <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-brightgreen?style=for-the-badge" height="30"/>
+  <img src="https://komarev.com/ghpvc/?username=DARXS&color=00FFF7&style=for-the-badge&label=👀+PROFILE+VIEWS" height="35"/>
+  <img src="https://img.shields.io/github/followers/DARXS?label=FOLLOWERS&style=for-the-badge&color=FF0080&labelColor=000000" height="35"/>
+  <img src="https://img.shields.io/badge/Status-Available_for_Opportunities-00FF00?style=for-the-badge&labelColor=000000" height="35"/>
 </div>
 
 <br>
@@ -48,7 +48,7 @@
 <!-- About Section with Neon Effect -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=%F0%9F%92%A1+WHO+I+AM" alt="Who I Am" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=FF0080&center=true&vCenter=true&width=600&lines=%F0%9F%92%A1+WHO+I+AM" alt="Who I Am" />
 
 </div>
 
@@ -127,7 +127,7 @@ const danilo = {
 
 <!-- Animated Separator -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 <br>
@@ -135,28 +135,7 @@ const danilo = {
 <!-- Professional Experience Section -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+PROFESSIONAL+JOURNEY" alt="Professional Journey" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#0D1117', 'primaryTextColor':'#00D9FF', 'primaryBorderColor':'#00D9FF', 'lineColor':'#00D9FF', 'secondaryColor':'#1a1b27', 'tertiaryColor':'#2d3748'}}}%%
-timeline
-    title Career Timeline
-    2023 : Electronics Developer @ Mangue Baja
-         : Embedded Systems Development
-    2024 : Electronics Coordinator @ Mangue Baja
-         : Team Leadership & Competition Success
-         : MPC Intern @ Stellantis
-    2025 : Maintenance Reliability Analyst @ Stellantis
-         : Power BI & Data Analytics
-         : Software Quality Analyst @ Stellantis
-         : SWAT Infotainment Specialist
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=00FFF7&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+PROFESSIONAL+JOURNEY" alt="Professional Journey" />
 
 </div>
 
@@ -165,8 +144,8 @@ timeline
 <!-- Experience Cards -->
 <details open>
 <summary>
-<img src="https://img.shields.io/badge/🏢_Stellantis-Software_Engineering_Quality_Analyst-0066CC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📅-Dec_2025_→_Present-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏢_Stellantis-Software_Engineering_Quality_Analyst-00FFF7?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/📅-Dec_2025_→_Present-00FF00?style=for-the-badge&labelColor=000000" />
 </summary>
 
 <br>
@@ -224,8 +203,8 @@ End-to-end problem resolution
 
 <details>
 <summary>
-<img src="https://img.shields.io/badge/📊_Stellantis-Maintenance_Reliability_&_Quality-FF6600?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📅-Jun_2025_→_Nov_2025-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📊_Stellantis-Maintenance_Reliability_&_Quality-FF0080?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/📅-Jun_2025_→_Nov_2025-FFD700?style=for-the-badge&labelColor=000000" />
 </summary>
 
 <br>
@@ -267,8 +246,8 @@ End-to-end problem resolution
 
 <details>
 <summary>
-<img src="https://img.shields.io/badge/🏎️_Mangue_Baja_SAE-Electronics_Coordinator_&_Developer-gold?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📅-May_2023_→_Apr_2025-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏎️_Mangue_Baja_SAE-Electronics_Coordinator_&_Developer-FFD700?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/📅-May_2023_→_Apr_2025-FF6600?style=for-the-badge&labelColor=000000" />
 </summary>
 
 <br>
@@ -321,7 +300,7 @@ End-to-end problem resolution
 
 <!-- Animated Separator -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 <br>
@@ -329,7 +308,7 @@ End-to-end problem resolution
 <!-- Tech Stack Section -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=7B68EE&center=true&vCenter=true&width=800&lines=%F0%9F%9B%A0%EF%B8%8F+TECHNOLOGY+STACK" alt="Tech Stack" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=9D00FF&center=true&vCenter=true&width=900&lines=%F0%9F%9B%A0%EF%B8%8F+TECHNOLOGY+STACK" alt="Tech Stack" />
 
 </div>
 
@@ -337,10 +316,10 @@ End-to-end problem resolution
 
 <!-- Animated Tech Icons -->
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="80" height="80" />
 </p>
 
 <br>
@@ -348,75 +327,58 @@ End-to-end problem resolution
 ### **🚗 Automotive & Diagnostics**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CAN_Bus-FF6600?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/LIN_Protocol-003D7A?style=for-the-badge&logo=line&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_CANalyzer-E30613?style=for-the-badge&logo=vectorworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/UDS_ISO_14229-555555?style=for-the-badge&logo=iso&logoColor=white" />
-  <img src="https://img.shields.io/badge/FOTA%2FAOTA-00C853?style=for-the-badge&logo=quicklook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Diagnostics-0066CC?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/CAN_Bus-FF3300?style=for-the-badge&logo=databricks&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LIN_Protocol-0066FF?style=for-the-badge&logo=line&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Vector_CANalyzer-E30613?style=for-the-badge&logo=vectorworks&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/UDS_ISO_14229-9D00FF?style=for-the-badge&logo=iso&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/FOTA%2FAOTA-00FF88?style=for-the-badge&logo=quicklook&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Diagnostics-00DDFF?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=000000" />
 </p>
 
 ### **💻 Embedded Systems & Firmware**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge&logo=freertos&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" />
-  <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge&logo=platformio&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/C++-FF0080?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/FreeRTOS-00FFF7?style=for-the-badge&logo=freertos&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PlatformIO-FF6600?style=for-the-badge&logo=platformio&logoColor=white&labelColor=000000" />
 </p>
 
 ### **📊 Data Analytics & Business Intelligence**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP_PM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/NumPy-4DABFF?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Matplotlib-FF0080?style=for-the-badge&logo=plotly&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SAP_PM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SQL-00FF88?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=000000" />
 </p>
 
 ### **⚙️ Methodologies, Tools & Quality**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/V--Model-4CAF50?style=for-the-badge&logo=v&logoColor=white" />
-  <img src="https://img.shields.io/badge/FMEA-FF9800?style=for-the-badge&logo=failure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Root_Cause_Analysis-E91E63?style=for-the-badge&logo=rootme&logoColor=white" />
-  <img src="https://img.shields.io/badge/8D_Method-9C27B0?style=for-the-badge&logo=8&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile_Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/V--Model-00FF00?style=for-the-badge&logo=v&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/FMEA-FF6600?style=for-the-badge&logo=failure&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Root_Cause_Analysis-FF0080?style=for-the-badge&logo=rootme&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/8D_Method-9D00FF?style=for-the-badge&logo=8&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Agile_Scrum-00DDFF?style=for-the-badge&logo=scrumalliance&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MATLAB-FFD700?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=000000" />
 </p>
 
-<br>
 
-### **📊 Skill Proficiency Matrix**
-
-<div align="center">
-
-| Domain | Proficiency | Technologies |
-|:------:|:-----------:|:-------------|
-| **🚗 Automotive Diagnostics** | ![95%](https://progress-bar.dev/95/?title=Expert&width=200&color=00d9ff) | CAN/LIN, Vector Tools, UDS, FOTA |
-| **⚡ Embedded C/C++** | ![90%](https://progress-bar.dev/90/?title=Advanced&width=200&color=00ff88) | STM32, ESP32, FreeRTOS, Bare Metal |
-| **🎯 Quality Engineering** | ![90%](https://progress-bar.dev/90/?title=Advanced&width=200&color=ffa500) | FMEA, RCA, 8D, V-Model, Ishikawa |
-| **📊 Power BI & Analytics** | ![85%](https://progress-bar.dev/85/?title=Advanced&width=200&color=f2c811) | DAX, ETL, SAP PM Integration |
-| **🐍 Python Development** | ![80%](https://progress-bar.dev/80/?title=Proficient&width=200&color=3776ab) | Pandas, NumPy, Matplotlib, Automation |
-| **🔌 PCB Design** | ![75%](https://progress-bar.dev/75/?title=Proficient&width=200&color=314cb0) | KiCad, Signal Integrity, EMC |
-
-</div>
-
-<br>
 
 <!-- Animated Separator -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 <br>
@@ -424,7 +386,7 @@ End-to-end problem resolution
 <!-- Featured Projects Section -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=45&pause=1000&color=FF1493&center=true&vCenter=true&width=800&lines=%F0%9F%8E%A8+FEATURED+PROJECTS" alt="Featured Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=50&pause=1000&color=FF0080&center=true&vCenter=true&width=800&lines=%F0%9F%8E%A8+FEATURED+PROJECTS" alt="Featured Projects" />
 
 </div>
 
@@ -446,10 +408,10 @@ End-to-end problem resolution
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-FFD700?style=flat-square&logo=python&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Matplotlib-FF0080?style=flat-square&labelColor=000000" />
 </p>
 
 Desktop application designed for processing raw vehicle telemetry data from CSV files. Features advanced digital filtering algorithms, real-time KPI extraction, and interactive visualization dashboards.
@@ -464,7 +426,7 @@ Desktop application designed for processing raw vehicle telemetry data from CSV 
 
 <p align="center">
   <a href="https://github.com/DARXS">
-    <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗_View_Repository-00FFF7?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
 </p>
 
@@ -482,10 +444,10 @@ Desktop application designed for processing raw vehicle telemetry data from CSV 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/FreeRTOS-00979D?style=flat-square" />
-  <img src="https://img.shields.io/badge/LoRa-00ADEF?style=flat-square" />
-  <img src="https://img.shields.io/badge/GPS-0066CC?style=flat-square" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/FreeRTOS-00FFF7?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/LoRa-00DDFF?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GPS-FFD700?style=flat-square&labelColor=000000" />
 </p>
 
 Real-time GPS tracking unit with SD card logging and LoRa wireless transmission. Purpose-built for off-road competition environments with long-range communication capabilities.
@@ -501,7 +463,7 @@ Real-time GPS tracking unit with SD card logging and LoRa wireless transmission.
 
 <p align="center">
   <a href="https://github.com/DARXS">
-    <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗_View_Repository-FF0080?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
 </p>
 
@@ -522,9 +484,9 @@ Real-time GPS tracking unit with SD card logging and LoRa wireless transmission.
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP--NOW-FF6600?style=flat-square" />
-  <img src="https://img.shields.io/badge/State_Machine-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ESP--NOW-FF6600?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/State_Machine-9D00FF?style=flat-square&labelColor=000000" />
 </p>
 
 Automated timing system using ESP-NOW protocol for 0-100m acceleration tests with millisecond precision. Designed to replace manual stopwatch methods with wireless gate synchronization.
@@ -540,7 +502,7 @@ Automated timing system using ESP-NOW protocol for 0-100m acceleration tests wit
 
 <p align="center">
   <a href="https://github.com/DARXS">
-    <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗_View_Repository-9D00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
 </p>
 
@@ -558,9 +520,9 @@ Automated timing system using ESP-NOW protocol for 0-100m acceleration tests wit
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SAE_Standard-FF6600?style=flat-square" />
-  <img src="https://img.shields.io/badge/IP67_Rated-0066CC?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automotive_Grade-00C853?style=flat-square" />
+  <img src="https://img.shields.io/badge/SAE_Standard-FF3300?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/IP67_Rated-0066FF?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Automotive_Grade-00FF88?style=flat-square&labelColor=000000" />
 </p>
 
 Automotive-grade electrical architecture designed for extreme off-road conditions. Features intelligent fault segmentation system for rapid diagnosis and repair in competition environments.
@@ -577,7 +539,7 @@ Automotive-grade electrical architecture designed for extreme off-road condition
 
 <p align="center">
   <a href="https://github.com/DARXS">
-    <img src="https://img.shields.io/badge/🔗_View_Documentation-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗_View_Documentation-00FF88?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
 </p>
 
@@ -589,10 +551,13 @@ Automotive-grade electrical architecture designed for extreme off-road condition
 
 <!-- Animated Separator -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 <br>
+
+<!-- Awards Section -->
+<div align="center">
 
 <!-- Awards Section -->
 <div align="center">
