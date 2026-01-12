@@ -216,10 +216,10 @@ End-to-end problem resolution
 **🎯 Data Governance Excellence**
 - Implemented real-time Visual Maintenance Management
 - Standardized KPIs: MTTR, MTBF, Availability, Maintenance Cost
-- Achieved 100% data integrity across SPW systems
+- Achieved data integrity across systems
 
 **💻 Power BI Analytics Ecosystem**
-- Built 15+ strategic dashboards integrating SAP PM
+- Built strategic dashboards integrating SAP PM, Excel
 - Created ETL pipelines using Power Query & DAX
 - Developed Emergency Work Order monitoring system
 
@@ -228,7 +228,7 @@ End-to-end problem resolution
 
 **🔧 Failure Analysis Mastery**
 - Applied structured methodologies: 5 Whys, RCA, Ishikawa, FTA
-- Identified critical failure patterns reducing downtime by 30%
+- Identified critical failure patterns
 - Supported data-driven maintenance optimization strategies
 
 **📈 Business Impact**
