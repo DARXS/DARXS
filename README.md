@@ -319,7 +319,6 @@ End-to-end problem resolution
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="80" height="80" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="80" height="80" />
 </p>
 
 <br>
@@ -357,7 +356,6 @@ End-to-end problem resolution
   <img src="https://img.shields.io/badge/NumPy-4DABFF?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Matplotlib-FF0080?style=for-the-badge&logo=plotly&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/SAP_PM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/SQL-00FF88?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&labelColor=000000" />
 </p>
 
