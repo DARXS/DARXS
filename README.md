@@ -159,8 +159,10 @@ Advanced failure mode identification through comprehensive bench/vehicle testing
 
 **Tools:**
 - CANalyzer
-- CANcase  
-- Diaglyser
+- CANcase
+- CANdela
+- DIAlyser
+- DIAnalyser
 - CDA
 
 </td>
