@@ -265,10 +265,10 @@ End-to-end problem resolution
 - Integrated CAN, UART, I2C, SPI communication protocols
 
 **🛠️ Technical Innovations**
-- Developed telemetry analysis tool → **+13% performance**
-- Created LoRa GPS tracking system → **1.5km range**
-- Built wireless acceleration timer → **-45% test time**
-- Designed modular wiring harness → **-60% MTTR**
+- Developed telemetry analysis tool
+- Created LoRa GPS tracking system
+- Built wireless acceleration timer
+- Designed modular wiring harness
 
 </td>
 <td width="40%" align="center">
@@ -280,14 +280,15 @@ End-to-end problem resolution
 <br><br>
 
 **2024 National**
-- 🥉 3rd Electronics
 - 🏅 5th Overall
+- 🥉 3rd Electronics Presentation
 
 **2024 Regional**
-- 🥇 1st Overall
+- 🥈 2nd Overall
 - 🥇 1st Presentation
 
 **2023 Regional**
+- 🥇 1st Overall
 - 🥇 1st Presentation
 
 </td>
