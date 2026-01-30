@@ -526,8 +526,6 @@ Automated timing system using ESP-NOW protocol for 0-100m acceleration tests wit
 
 Automotive-grade electrical architecture designed for extreme off-road conditions. Features intelligent fault segmentation system for rapid diagnosis and repair in competition environments.
 
-**🔧 Impact:** Reduced MTTR by **-60%**
-
 **🛠️ Design Highlights:**
 - Modular quick-disconnect connector system
 - Functional zone color coding and labeling
