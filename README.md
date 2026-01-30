@@ -82,8 +82,6 @@ const danilo = {
 
 <br>
 
-**🚀 Current Role:** Leading SWAT diagnostics at Stellantis, specializing in post-production infotainment systems analysis and root cause investigation.
-
 **🏆 Background:** Former Electronics Coordinator at **Mangue Baja SAE UFPE**, where I led competition-grade embedded systems development.
 
 </td>
