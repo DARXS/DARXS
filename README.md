@@ -485,7 +485,7 @@ FAST Career Acceleration — Software Quality Engineering
 <tr>
 <td width="100%" valign="top">
 
-#### 🏁 29th Baja SAE Brasil – National Stage *(São José dos Campos, SP · 2025)*
+#### 🏁 29th Baja SAE Brasil – National Stage *(São José dos Campos, SP · 2024)*
 <p align="center">
 <img src="https://img.shields.io/badge/🏅-5th_Place_Overall-C0C0C0?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/🥉-3rd_Place_E%2FE_System_Presentation-CD7F32?style=for-the-badge&labelColor=000000" />
